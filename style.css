@@ -1,0 +1,59 @@
+body{
+    background: #e7e5df;
+    font-family: montserrat;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title{
+    text-align: center;
+    margin:auto;
+}
+
+
+.container1 {
+    display: flex;
+    align-content: center;
+}
+    
+
+.private_photo {
+    border-radius: 50%;
+    border: 1px #393e41;
+    width: 180px;
+    height: 180px;
+}
+
+.subtitle {
+    color: black;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.post_content {
+    font-family: poppins;
+    margin-right: 300px;
+     text-align: justify;
+}
+
+.post_image {
+    width: 500px;
+    border-radius: 45%;
+}
+
+.container {
+    display: flex;
+    align-items: left;
+}
+
+.contacts{
+    text-align: center;
+}
+
+footer{
+    margin-top: 100px;
+    font-size: normal;  
+    color: #393e41;
+    text-decoration: none; 
+}
